@@ -11,20 +11,20 @@ namespace parcial.Negocio
     {
         string user = "Miguel";
         int password = 123;
-        public int x;
+        public int verificar;
 
         public string acceso (string nombre, int contra)
         {
             if (nombre == user && contra == password)
             {
-                x = 1;
+                verificar = 1;
 
                 return "Inicio de sesión correcto puedes continuar con el proceso de venta";
 
             }
 
             else
-                x = 2;
+                verificar = 2;
                 return "Nombre de usuario incorrecto";
         }
     }

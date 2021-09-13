@@ -24,11 +24,11 @@ namespace parcial
             Console.WriteLine(clsUsuario.acceso(usuario.Nombre, usuario.Contra));
             Console.ReadLine();
 
-            if (clsUsuario.x == 1)
+            if (clsUsuario.verificar == 1)
             {
-                int y = 1;
+                int con = 1;
 
-                while (y == 1)
+                while (con == 1)
                 {
                     Console.WriteLine("Escriba el id del producto");
                     int identificador_producto = Convert.ToInt32(Console.ReadLine());
@@ -51,7 +51,7 @@ namespace parcial
                     Console.WriteLine(clsventa.cobrar(s));
 
                     Console.WriteLine("Escriba 2 si desea cerrar el programa y 1 si no");
-                    y = Convert.ToInt32(Console.ReadLine());
+                    con = Convert.ToInt32(Console.ReadLine());
 
                     Console.WriteLine(usuario.ToString());
                     Console.WriteLine(venta.ToString());
@@ -60,6 +60,10 @@ namespace parcial
 
                 }
             }
+
+            else
+                Console.WriteLine("Vuelva pronto");
+            Console.ReadLine();
         }
     }
 }
