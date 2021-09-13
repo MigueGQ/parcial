@@ -13,5 +13,10 @@ namespace parcial.Entidades
 
         public string Nombre { get => nombre; set => nombre = value; }
         public int Contra { get => contra; set => contra = value; }
+
+        public override string ToString()
+        {
+            return "Su nombre es: " + Nombre + "su contra" + Contra;
+        }
     }
 }

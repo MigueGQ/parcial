@@ -5,3 +5,10 @@ C:\Users\Guardado\source\repos\parcial\parcial\bin\Debug\parcial.exe
 C:\Users\Guardado\source\repos\parcial\parcial\bin\Debug\parcial.pdb
 C:\Users\Guardado\source\repos\parcial\parcial\obj\Debug\parcial.exe
 C:\Users\Guardado\source\repos\parcial\parcial\obj\Debug\parcial.pdb
+C:\Users\Guardado\Documents\GitHub\parcial\parcial\parcial\obj\Debug\parcial.csproj.AssemblyReference.cache
+C:\Users\Guardado\Documents\GitHub\parcial\parcial\parcial\obj\Debug\parcial.csproj.CoreCompileInputs.cache
+C:\Users\Guardado\Documents\GitHub\parcial\parcial\parcial\obj\Debug\parcial.exe
+C:\Users\Guardado\Documents\GitHub\parcial\parcial\parcial\obj\Debug\parcial.pdb
+C:\Users\Guardado\Documents\GitHub\parcial\parcial\parcial\bin\Debug\parcial.exe.config
+C:\Users\Guardado\Documents\GitHub\parcial\parcial\parcial\bin\Debug\parcial.exe
+C:\Users\Guardado\Documents\GitHub\parcial\parcial\parcial\bin\Debug\parcial.pdb

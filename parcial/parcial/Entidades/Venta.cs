@@ -32,5 +32,10 @@ namespace parcial.Entidades
         public Venta()
         {
         }
+
+        public override string ToString()
+        {
+            return "El id del prducto que usted compró " + Identificador_producto + " el nombre de su producto es: " + Nombre_producto + " " + Descripcion + " el precio unitario de estes es: " + Precio + " va llevar " + Cantidad;
+        }
     }
 }
